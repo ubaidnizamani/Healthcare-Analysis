@@ -21,4 +21,4 @@ This project involves the exploratory data analysis (EDA) of a 1,635-record heal
 - `LICENSE`: MIT License.
 
 ---
-*Created by Ubaid Nizamani*
+*Created by Muhammad Ubaid Ur Rehman Nizamani*
