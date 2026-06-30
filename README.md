@@ -18,6 +18,7 @@ This project involves the exploratory data analysis (EDA) of a 1,635-record heal
 
 ## Project Structure
 - `healthcare_analysis.sql`: The complete suite of analytical queries.
+- `Data Source`: [https://www.kaggle.com/datasets/prasad22/healthcare-dataset]. This dataset is provided for educational purposes and contains mock records of patient hospital visits.
 - `LICENSE`: MIT License.
 
 ---
