@@ -1,4 +1,4 @@
-# Healthcare Operational Analysis
+# Healthcare Data Analysis
 
 ## Project Overview
 This project involves the exploratory data analysis (EDA) of a 1,635-record healthcare dataset. The objective was to transform raw patient data into actionable insights regarding financial billing patterns, operational efficiency, and clinical workload management using SQL Server Management Studio (SSMS).
